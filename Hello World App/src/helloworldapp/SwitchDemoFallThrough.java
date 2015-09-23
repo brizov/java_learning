@@ -63,6 +63,7 @@ public class SwitchDemoFallThrough {
         int count = 1;
         do {
             System.out.println("Count is: " + count);
+            System.out.println("EBANIEEEEE");
             count++;
         } while (count < 11);
 	}
